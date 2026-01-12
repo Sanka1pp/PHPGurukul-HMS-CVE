@@ -10,7 +10,7 @@
 | **Date** | January 2026 |
 
 ## 1. Executive Summary
-Syntropy Security has identified six (6) critical security vulnerabilities in the PHPGurukul Hospital Management System v4.0. These vulnerabilities fundamentally compromise the confidentiality, integrity, and availability of the application. The flaws allow unauthenticated remote attackers to extract the complete database, bypass administrative authentication mechanisms, and access Protected Health Information (PHI) of patients.
+Syntropy Security has identified six (3 Critical + 3 High) security vulnerabilities in the PHPGurukul Hospital Management System v4.0. These vulnerabilities fundamentally compromise the confidentiality, integrity, and availability of the application. The flaws allow unauthenticated remote attackers to extract the complete database, bypass administrative authentication mechanisms, and access Protected Health Information (PHI) of patients.
 
 Due to the severity of these findings (including Remote Account Takeover and Full Database Disclosure), immediate remediation is recommended.
 
