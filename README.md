@@ -1,3 +1,7 @@
+![Severity](https://img.shields.io/badge/Severity-Critical-red)
+![Status](https://img.shields.io/badge/Status-Unpatched%20(0--Day)-orange)
+![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-6-blue)
+
 # Security Advisory: Multiple Critical Vulnerabilities in PHPGurukul Hospital Management System
 
 | **Advisory Property** | **Details** |
