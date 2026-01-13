@@ -1,8 +1,10 @@
+# Security Advisory: Multiple Critical Vulnerabilities in PHPGurukul Hospital Management System
+
+[![Packet Storm](https://img.shields.io/badge/Packet%20Storm-Advisory%20Published-blue?logo=security&logoColor=white)](https://packetstorm.news/files/id/213711)
 ![Severity](https://img.shields.io/badge/Severity-Critical-red)
 ![Status](https://img.shields.io/badge/Status-Unpatched%20(0--Day)-orange)
-![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-6-blue)
 
-# Security Advisory: Multiple Critical Vulnerabilities in PHPGurukul Hospital Management System
+> **" Nice research!  You drove a bus through this.." — Packet Storm Security Staff**
 
 | **Advisory Property** | **Details** |
 | :--- | :--- |
@@ -52,3 +54,13 @@ The vendor has not released a patch at the time of this disclosure. Administrato
 ## 5. Credits
 **Research & Discovery:** Sankalp Devidas Hanwate
 **Organization:** Syntropy Security
+
+---
+###  Citation & Reference
+**Permanent Link:** [Packet Storm Security Advisory](https://packetstorm.news/files/id/213711)
+
+**Researcher:** Sankalp Devidas Hanwate (Syntropy Security)
+
+**License:** Educational Use / Responsible Disclosure
+
+*To leverage this research for penetration testing or security training, please link back to this repository.*
