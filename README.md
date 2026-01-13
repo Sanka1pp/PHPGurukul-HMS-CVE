@@ -1,3 +1,5 @@
+<div align="center">
+   
 # Security Advisory: Multiple Critical Vulnerabilities in PHPGurukul Hospital Management System
 
 [![Packet Storm](https://img.shields.io/badge/Packet%20Storm-Advisory%20Published-blue?logo=security&logoColor=white)](https://packetstorm.news/files/id/213711)
@@ -5,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Unpatched%20(0--Day)-orange)
 
 > **"Featured Publication: Jan 2026" — Packet Storm Security"**
+</div>
 
 | **Advisory Property** | **Details** |
 | :--- | :--- |
