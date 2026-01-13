@@ -4,7 +4,7 @@
 ![Severity](https://img.shields.io/badge/Severity-Critical-red)
 ![Status](https://img.shields.io/badge/Status-Unpatched%20(0--Day)-orange)
 
-> **" Nice research!  You drove a bus through this.." — Packet Storm Security Staff**
+> **"Featured Publication: Jan 2026" — Packet Storm Security"**
 
 | **Advisory Property** | **Details** |
 | :--- | :--- |
